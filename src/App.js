@@ -17,7 +17,7 @@ function App(){
   return(
     <div>
       <h2>Lets get started!</h2>
-      <Expenses item={obj}/>
+      <Expenses items={obj}/>
     </div>
   );
 }
