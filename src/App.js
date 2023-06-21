@@ -15,8 +15,10 @@ function App(){
     }
   ];
   return(
-    <Expenses item={obj}/>
-
+    <div>
+      <h2>Lets get started!</h2>
+      <Expenses item={obj}/>
+    </div>
   );
 }
 export default App; 
