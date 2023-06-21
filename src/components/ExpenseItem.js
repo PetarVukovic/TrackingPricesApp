@@ -1,7 +1,7 @@
 import "./ExpenseItem.css";
 import ExpenseDate from "./ExpenseDate";
 
-function ExpensionItem(props){
+function ExpenseItem(props){
 
 
     return (
@@ -15,4 +15,4 @@ function ExpensionItem(props){
     );
 }
 
-export default ExpensionItem;
+export default ExpenseItem;
